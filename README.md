@@ -1,2 +1,2 @@
-# Lilac-Dental-Website
+# Lilac-Dental
 This is a dental website
